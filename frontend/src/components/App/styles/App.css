@@ -1,0 +1,9 @@
+.content-main-container {
+    display: flex;
+
+}
+
+h1 {
+    width: 100%;
+    text-align: center;
+}
